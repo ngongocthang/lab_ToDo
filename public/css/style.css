@@ -1,0 +1,11 @@
+.boder {
+    width: 900px;
+    border: 2px solid #dddddd;
+    padding: 0px 20px 20px 20px;
+    margin: 20px;
+    border-radius: 10px; 
+}
+.todo-header {
+    text-decoration: underline;
+    color: rgb(255, 208, 0);
+}
